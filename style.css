@@ -218,6 +218,8 @@ h1, h2, h3, h4, h5, h6{
     .top-content{
         background-image: url(/images/bg_topo_1600x1374.jpg);
         padding: 19em 16em 10em;
+        background-repeat: no-repeat;
+        background-size: 100%;
         background-position: center top;
     }
 
